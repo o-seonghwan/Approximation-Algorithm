@@ -1,14 +1,3 @@
----
-title: "Approximation Algorithm"
-excerpt: "근사 알고리즘"
-
-categories:
-  - 과제
-tags:
-  - 알고리즘
-  - java
-
----
 
 
 # Approximation Algorithm
